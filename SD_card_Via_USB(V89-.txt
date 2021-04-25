@@ -1,0 +1,16 @@
+Technically, searching only under fixed '/storage/' folder as mount point, detect external storage, some of which might not be found by standard API.If your device uses other directory as mount point of External SD(not internal SD Slot of device), perhaps cannot detect it.(In case that your device uses '/storage/' folder as device-internal 'direct SD Card slot',it occurs that the device uses other folder as 'External SD')
+
++ You need to restart App after connecting USB SD card(for confirming,long-click Upper Path bar in App)
++ After recognition, You might need to wait for a few minutes till get stable connection(it might occurs playback stops and fails in the way), perhaps depending on device type(necessary transfer speed related too).
++ Portable SSD:
+ Small type such as finger-size, might be recognized. Large size SSD basically cannot be detected.
+ Even if Portable SSD is not recognized, SD Card can be recognized.
+ But notice that in any case, if mount point is mis-matching,recognition is impossible.
+
+It is more and more difficult to access freely to external drive, even if using standard android API, because Google is not going to offer easy access method to External drive in Google's recent and future trend.
+
+
+
+
+
+
