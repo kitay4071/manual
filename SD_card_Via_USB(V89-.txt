@@ -2,6 +2,9 @@ Technically, searching only under fixed '/storage/' folder as mount point, detec
 
 + You need to restart App after connecting USB SD card(for confirming,long-click Upper Path bar in App)
 + After recognition, You might need to wait for a few minutes till get stable connection(it might occurs playback stops and fails in the way), perhaps depending on device type(necessary transfer speed related too).
++ SD Card Write Permission Hint:
+  If 'Incorrect folder selected' message shown despite of selecting drive root, confirm selected drive again. For Via-USB drive(or SD Card), you have to select 'USB', not 'SD Card'(perhaps) on Upper bar menu. You might need to change it on Upper bar of Permission Dialog.
+ 
 + Portable SSD:
  Small type such as finger-size, might be recognized. Large size SSD basically cannot be detected.
  Even if Portable SSD is not recognized, SD Card can be recognized.
