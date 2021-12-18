@@ -1,0 +1,2 @@
+(On Android 10 and after?)
+There is BUG that in Resuming App after Phone Lock(or long background), Web Browser may have Bad Response.If so, please Restart App,sorry(If this doesn't fix response,'Force Stop' in Setting/Apps of Phone)
