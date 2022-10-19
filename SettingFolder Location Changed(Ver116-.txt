@@ -1,0 +1,6 @@
+Changed to:
+ <Internal Drive Root> / WebExplorer999
+
+Shortcut.txt(For Favorite Pulldown) and Type_filter.txt(filtering file displayed) are here.
+
+*You can go to this folder from From Favorite pull Down:Setting Folder
