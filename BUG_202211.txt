@@ -1,11 +1,8 @@
 + External SD Card Writing Error:
-=>If this occurs,please delete Setting Folder( WebExplorer999 Folder in internal Drive).
-1.Display internal drive in Explorer mode(Long-Clock Path Bar on App and select internal drive or Select 'Setting Folder of Favorite Pulldown).
-2.Long-Click WebExplorer999 Folder.Popup menu will shown.
-3.Remove WebExplorer999 Folder.
-4.Restart App.
-
-This will resets your all custom Settings for this App,sorry.
+=>If this occurs repeatedlly,
+1.Open Settings from Menu Button's Popup
+2.'Reset External SD Writing Error'Section:
+   Press Button there.
 
 +VLNK not work in Video Player:
 => will be fixed soon.
