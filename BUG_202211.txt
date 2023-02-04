@@ -1,9 +1,0 @@
-+ External SD Card Writing Error:
-=>If this occurs repeatedlly,
-1.Open Settings from Menu Button's Popup
-2.'Reset External SD Writing Error'Section:
-   Press Button there.
-
-+VLNK not work in Video Player:
-=> will be fixed soon.
-

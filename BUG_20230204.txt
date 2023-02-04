@@ -1,0 +1,27 @@
++ External SD Card Writing Error:
+=>If this occurs repeatedlly,
+1.Open Settings from Menu Button's Popup
+2.'Reset External SD Writing Error'Section:
+   Press Button there.
+
+
++Page Shot:Area shown *for Web site
+On using 'Page Shot:Area shown', Whole Page in Horizontal(width) direction of page need to be shown.
+Otherwise Picture shot have lack of area in sides.
+* Other Way: Left side end shown always for 'Page Shot:Area shown'.
+
+
++Page Shot:Whole(.mht) 
+For some Site(especially Sites having Fixed bars on top or bottom and contents page scrolling inside that),
+'whole shot with mht' may take only Top or Bottom Bars(no other page contents).
+
+recommended to Confirm the mht file after downloding with opening it(in this app by Clicking the mht file).
+* Some MHT file takes time to Open.
+* In case that only some of pictures in page lost, wait all pictures to shown in the page(scloll down page to bottom,etc) ,then do 'Shot Whole(MHT)' operation. 
+
+If contents not shot by MHT by anyway, please use 'Page Shot:Area shown' or 'Screenshot',insteadly.
+
+
++"This name already Exist" shown and cannot Save in Picture(.etc) Saving:
+Internally including name-shorten process(and comparing them). So if this occurs, shorten Filename shown and set not like duplicating name in Save-dialog,sorry.
+

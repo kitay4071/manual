@@ -1,0 +1,18 @@
+First of all, Outer drive(SD or SDD) to connect needs to have FAT or exFAT format.
+ 
++ You need to restart App after connecting USB SD card(for confirming,long-click Upper Path bar in App)
++ After recognition, You might need to wait for a few minutes till get stable connection(it might occurs media playback stops and fails in the way), perhaps depending on device type(necessary transfer speed related too).
+ 
++ Portable SSD:
+ Small type such as finger-size, might be recognized. Large size SSD basically cannot be detected.
+ Even if Portable SSD is not recognized, SD Card can be recognized.
+ But notice that in any case, if mount point which your phone uses for outer drive is mis-matching(nothing you can do),recognition is impossible.
+
+Technically, searching only under fixed '/storage/' folder as mount point, detect external storage, some of which might not be found by standard API.If your device uses other directory as mount point of External SD(not internal SD Slot of device), perhaps cannot detect it.(In case that your device uses '/storage/' folder as device-internal 'direct SD Card slot',it occurs that the device uses other folder as 'External SD')
+
++ SD Card Write Permission Hint(for Older type of Androie OS with Picker Dialog shown):
+  If Incorrect folder selected' message shown despite of selecting drive root, confirm selected drive again. For Via-USB drive(or SD Card), you have to select 'USB', not 'SD Card'(perhaps) on Upper bar menu. You might need to change it on Upper bar of Permission Dialog.
+
+It is more and more difficult to access freely to external drive, even if using standard android API, because Google is not going to offer easy access method to External drive in Google's recent and future trend.
+
+
