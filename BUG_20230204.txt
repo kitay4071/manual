@@ -1,5 +1,5 @@
-+ External SD Card Writing Error:
-=>If this occurs repeatedlly,
++ Error ocurrs repeatedly when Opening a file in External SD Card with External App or when Writing to External SD Card
+=>
 1.Open Settings from Menu Button's Popup
 2.'Reset External SD Writing Error'Section:
    Press Button there.
