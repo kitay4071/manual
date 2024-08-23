@@ -1,3 +1,5 @@
+(2024.08 Updated)
+
 + Error ocurrs repeatedly when Opening a file in External SD Card with External App or when Writing to External SD Card
 =>
 1.Open Settings from Menu Button's Popup
@@ -5,13 +7,13 @@
    Press Button there.
 
 
-+Page Shot:Area shown *for Web site
+<Web Browser>
++Page Shot 'Area shown'
 On using 'Page Shot:Area shown', Whole Page in Horizontal(width) direction of page need to be shown.
-Otherwise Picture shot have lack of area in sides.
-* Other Way: Left side end shown always for 'Page Shot:Area shown'.
+(or Not Zoomed)
+Otherwise Picture shot may have lack of area in sides.
 
-
-+Page Shot:Whole(.mht) 
++Page Shot'Whole(.mht)'
 For some Site(especially Sites having Fixed bars on top or bottom and contents page scrolling inside that),
 'whole shot with mht' may take only Top or Bottom Bars(no other page contents).
 
@@ -21,7 +23,4 @@ recommended to Confirm the mht file after downloding with opening it(in this app
 
 If contents not shot by MHT by anyway, please use 'Page Shot:Area shown' or 'Screenshot',insteadly.
 
-
-+"This name already Exist" shown and cannot Save in Picture(.etc) Saving:
-Internally including name-shorten process(and comparing them). So if this occurs, shorten Filename shown and set not like duplicating name in Save-dialog,sorry.
 
