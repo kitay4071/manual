@@ -1,3 +1,5 @@
+updated 2024.08
+
 ------------------------------------------------------------------------------
 CAUTION:
 if Connection Lost under Editing File directly in Outer Drive 'via USB' or Copying File to that Drive, Contents of that file may be lost even if file name be shown.
@@ -7,25 +9,16 @@ if Connection Lost under Editing File directly in Outer Drive 'via USB' or Copyi
 * There is no problem between SD in Slot of Smartphone and Smartphone's main Drive.
 ------------------------------------------------------------------------------
 
-First of all, Outer drive(SD or SSD) to connect needs to have FAT or exFAT format.
+First of all, Outer drive(SD or SSD) to connect needs to have FAT or exFAT format.(NTFS can Read in some phone,but cannot Write to,perhaps) 
  
-+ You need to restart App after connecting USB SD card(to show outer drive in App ,long-click Upper Path bar)
++ You need to restart App after connecting USB SD card(to show outer drive in App(Upper Path bar works as ComboBox)
+ 
++ Portable SSD:
+ Small type such as finger-size, might be recognized. Large size SSD basically cannot be detected.
+ Even if Portable SSD is not recognized, SD Card can be recognized.
 
 CAUTION:
 For video file,it seems to takes a few or about 10 minutes to get stable-playback.
 Till getting stable connection, most of Video files Playback may Error-Stop after a few minitues play, even if those video files shown(and thumbnails also) in this App.
 Perhaps as to transfer speed of your device or cache mechanism of file system, but I don't know that reason exactly.
- 
-+ Portable SSD:
- Small type such as finger-size, might be recognized. Large size SSD basically cannot be detected.
- Even if Portable SSD is not recognized, SD Card can be recognized.
- But notice that in any case, if mount point which your phone uses for outer drive is mis-matching(nothing you can do),recognition is impossible.
-
-Technically, searching only under fixed '/storage/' folder as mount point, detect external storage, some of which might not be found by standard API.If your device uses other directory as mount point of External SD(not internal SD Slot of device), perhaps cannot detect it.(In case that your device uses '/storage/' folder as device-internal 'direct SD Card slot',it occurs that the device uses other folder as 'External SD')
-
-+ SD Card Write Permission Hint(for Older type of Androie OS with Picker Dialog shown):
-  If Incorrect folder selected' message shown despite of selecting drive root, confirm selected drive again. For Via-USB drive(or SD Card), you have to select 'USB', not 'SD Card'(perhaps) on Upper bar menu(don't mis-select 'SD Card' for 'USB'). You might need to change it on Upper bar of Permission Dialog.
-
-It is more and more difficult to access freely to external drive, even if using standard android API, because Google is not going to offer easy access method to External drive in Google's recent and future trend.
-
 
