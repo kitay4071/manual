@@ -3,13 +3,17 @@ Feature Improvement and Specification Changed
 
 Resolving Preference Complexity
 --------------------------------
-Diminishing Setting items especially for each button's appearance(thinked Low-Priority) and each Bar height etc. adopt 'Common bar Height Value' setting affecting almost Bars in App.(Can Select at 'Bar Height' section in Preference,Upper part)
+Diminishing Setting items especially for each button's appearance
+(thinked Low-Priority) and each Bar height etc. adopt 'Common bar Height Value' setting
+ affecting almost Bars in App.(Can Select at 'Bar Height' section in Preference,Upper part)
 
 
 Usage on Mini Screen Phone
 --------------------------------
-Preference improvement above(and Bugfix) makes settings and using of Mini Phone with small Screen easy. 
-+First of all in Android Settings/Accessibiliy, select Small Font. Then select proper value of 'Bar Height' item in App Preference,and so on.
+Preference improvement above(and Bugfix) makes settings and using of Mini Phone 
+with small Screen easy. 
++First of all in Android Settings/Accessibiliy, select Small Font. 
+Then select proper value of 'Bar Height' item in App Preference,and so on.
 Web Page Font Button below also may helpful when web browsing.
 
 
@@ -21,24 +25,32 @@ Improved Recognition of External SD Card for Newer version Android phone.
 
 Web Page Font Size Button(+|-) *located below file list in App in Web mode
 --------------------------------
-When web page has too small font to read,using manual 'Pinch-Zoom' simply causes the page width bigger than phone screen and you need to scroll left to right to read by every one line. Using Web Page Font Button(+|-),page kept within Screen width you can read whole line without horizontal scroll.
-+ Too big font size may cause to collapse layout of Web page and lack of character appearance in input box.
+When web page has too small font to read,using manual 'Pinch-Zoom' simply 
+causes the page width bigger than phone screen and you need to scroll 
+left to right to read by every one line. Using Web Page Font Button(+|-),
+page kept within Screen width you can read whole line without horizontal scroll.
++ Too big font size may cause to collapse layout of Web page and lack of character 
+appearance in input box.
 + Font size memorized and Long-Clicking this Button resets font to 100%.
 
 
 Recent Folder History Improvement:
 --------------------------------
-In directory navigation, memorize not all you visited folder, but only folders in which you stay over specified time duration.
+In directory navigation, memorize not all you visited folder, 
+but only folders in which you stay over specified time duration.
 + Limit of time duration is specified in Preference.
  
 Home Folder Button:
 --------------------------------
 Function extended.
-When you set 'Home Folder'to a Folder(Long-Click one Folder in Directory and select in menu) ,Home Icon shown on Upper Bar.
+When you set 'Home Folder'to a Folder(Long-Click one Folder in Directory and select in menu) 
+,Home Icon shown on Upper Bar.
 +Click Home Icon to go Home Folder.
 
-Home Folder has 2 Mode: Simple / Full Tree Mode. According to Mode Icon Color on Upper Bar changes(though Home Icon 'in Tree' is always blue).
-  Simple Tree Mode(Blue Home Icon):When Current Folder is below 'Home',upper Folders from Home hidden and only Folders of Home below shown in Tree.
+Home Folder has 2 Mode: Simple / Full Tree Mode. According to Mode Icon Color on Upper Bar 
+changes(though Home Icon 'in Tree' is always blue).
+  Simple Tree Mode(Blue Home Icon):When Current Folder is below 'Home',
+upper Folders from Home hidden and only Folders of Home below shown in Tree.
   Full Tree Mode(White Home Icon):In the same csse,upper Folders Shown as usual.
 When current is not in Home below, all Tree shown in both cases.
 + To change Mode, Long-Clicking Home Icon on Upper Bar.
@@ -65,14 +77,14 @@ To execute easily,moved from main menu to Sort comboBox.
 
 Favorite Pulldown(combobox) Location
 -------------------------------------
-This is on the Right End default. This can be changed to Left side(though almost Center in Landscape)
-
+On the Right End default. This can be changed to Left side(though almost Center in Landscape)
 
 
 Manual:
 --------------------------------
 Internal Manual abolished. Refer to Manual on GitHub.
-+So that you can see manual directly on phone(though Screen is small)without downloading, past manuals(docx etc.) in GitHub have been converted to PDF,
++So that you can see manual directly on phone(though Screen is small)without downloading, 
+past manuals(docx etc.) in GitHub have been converted to PDF,
 (not all manual contents updated yet,sorry)  
 Manual Menu in App remains(shows URL link to GitHub manual).
 
