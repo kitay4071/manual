@@ -47,11 +47,14 @@ When you set 'Home Folder'to a Folder(Long-Click one Folder in Directory and sel
 ,Home Icon shown on Upper Bar.
 +Click Home Icon to go Home Folder.
 
-Home Folder has 2 Mode: Simple / Full Tree Mode. According to Mode Icon Color on Upper Bar 
+Home Folder has 2 Mode: 
+Simple / Full Tree Mode. According to Mode Icon Color on Upper Bar 
 changes(though Home Icon 'in Tree' is always blue).
-  Simple Tree Mode(Blue Home Icon):When Current Folder is below 'Home',
-upper Folders from Home hidden and only Folders of Home below shown in Tree.
-  Full Tree Mode(White Home Icon):In the same csse,upper Folders Shown as usual.
+Simple Tree Mode(Blue Home Icon):
+ When Current Folder is below 'Home',upper Folders from Home hidden and only Folders 
+of Home below shown in the Tree.
+Full Tree Mode(White Home Icon):
+ In the same csse,upper Folders Shown as usual.
 When current is not in Home below, all Tree shown in both cases.
 + To change Mode, Long-Clicking Home Icon on Upper Bar.
 + Home Folder is registered or not for every Drive.
@@ -77,7 +80,7 @@ To execute easily,moved from main menu to Sort comboBox.
 
 Favorite Pulldown(combobox) Location
 -------------------------------------
-On the Right End default. This can be changed to Left side(though almost Center in Landscape)
+On the Right End default. This can be changed to Left side in Preference(though almost Center in Landscape)
 
 
 Manual:
