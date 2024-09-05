@@ -2,14 +2,17 @@ updated 2024.08
 
 ------------------------------------------------------------------------------
 CAUTION:
-if Connection Lost under Editing File directly in Outer Drive 'via USB' or Copying File to that Drive, Contents of that file may be lost even if file name be shown.
-+Recommended NOT to Edit file directly in Outer Drive via USB(insteadly After copying a file to Smartphone's Drive and Edit the file on the Smartphone).
+if Connection Lost under Editing File directly in Outer Drive 'via USB' or Copying File to that Drive, 
+Contents of that file may be lost even if file name be shown.
++Recommended NOT to Edit file directly in Outer Drive via USB(insteadly After copying a file to Smartphone's Drive 
+and Edit the file on the Smartphone).
 +Use 'Copy' not 'Move' between Drive via USB and drive of Smartphone.
 +Confirm file size of copied file (or try to open file and confirm its contents) after Copying.
 * There is no problem between SD in Slot of Smartphone and Smartphone's main Drive.
 ------------------------------------------------------------------------------
 
-First of all, Outer drive(SD or SSD) to connect needs to have FAT or exFAT format.(NTFS can Read in some phone,but cannot Write to,perhaps) 
+First of all, Outer drive(SD or SSD) to connect needs to have FAT or exFAT format.
+(NTFS can Read in some phone,but cannot Write to,perhaps) 
  
 + You need to restart App after connecting USB SD card(to show outer drive in App(Upper Path bar works as ComboBox)
  
@@ -19,6 +22,7 @@ First of all, Outer drive(SD or SSD) to connect needs to have FAT or exFAT forma
 
 CAUTION:
 For video file,it seems to takes a few or about 10 minutes to get stable-playback.
-Till getting stable connection, most of Video files Playback may Error-Stop after a few minitues play, even if those video files shown(and thumbnails also) in this App.
+Till getting stable connection, most of Video files Playback may Error-Stop after a few minitues play, 
+even if those video files shown(and thumbnails also) in this App.
 Perhaps as to transfer speed of your device or cache mechanism of file system, but I don't know that reason exactly.
 
